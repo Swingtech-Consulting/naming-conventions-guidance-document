@@ -23,13 +23,13 @@ For full stack: amazing-app-app
       ____.____._____.____.development
 ___./___________\.main
 ```
-5. Branches for new features should be preceeded by 'feature-'
+5. Branches for new features must branch off from development and should be preceeded by 'feature-'
 ```
                        ___.___.___.feature-animated-progress-bar
       ____.____._____./____.development
 ___./___________\.main
 ```
-6. Branches for bug fixes should be preceeded by 'fix-'
+6. Branches for bug fixes must branch off from development and should be preceeded by 'fix-'
 ```
                        ___.___.___.fix-page-not-loading
       ____.____._____./____.development
