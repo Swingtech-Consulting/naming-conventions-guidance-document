@@ -18,7 +18,7 @@ For backends: amazing-app-api
 For fronends: amazing-app-fe
 For full stack: amazing-app-app
 ```
-4. Every project should have a 'main' and 'development' branch, with main being regularly updated with the functional and well tested code.
+4. Every project should have a 'main' and 'development' branch, with main being regularly updated with functional and well tested code.
 ```
       ____.____._____.____.development
 ___./___________\.main
